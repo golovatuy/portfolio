@@ -57,5 +57,12 @@ typings/
 # dotenv environment variables file
 .env
 
+# IDE
 .idea
+
+# auto src
+*.css
+css
+js
+
 

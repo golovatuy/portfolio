@@ -1,0 +1,1 @@
+console.log('module 2 is done')
